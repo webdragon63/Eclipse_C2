@@ -42,7 +42,10 @@ The program will prompt you for:
 - Maintain interactive communication between the clients and listeners.
 
 ### After starting a Netcat Multi-Handler, it will:
+![Screenshot at 2025-03-16 13-36-30](https://github.com/user-attachments/assets/ad2aece2-2fbb-4541-acff-0478149fc8c2)
 - Shows the payload options to choose a payload.
+![Screenshot at 2025-03-16 13-36-39](https://github.com/user-attachments/assets/138afb88-6a8e-4faa-8c3b-8c0656ea9411)
+![Screenshot at 2025-03-16 13-37-44](https://github.com/user-attachments/assets/b2e07c0b-bcb3-4497-9984-2a5b107ef021)
 - After choosing a payload it willl start the netcat listener in a single port.
 
 ## Notes
