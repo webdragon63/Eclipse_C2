@@ -35,6 +35,8 @@ The program will prompt you for:
 4. **Netcat Multi-Handler Port**: The port number to listen for incoming client connections.
 
 ### After starting a teamserver, it will:
+![Screenshot at 2025-03-16 13-31-35](https://github.com/user-attachments/assets/9764f6db-40bd-42c9-8b5c-aa521362af8d)
+
 - Wait 1 second and launch Netcat listeners on ports 2000, 2001, 2002, 2003 and 2004 using `xterm`.
 - Accept incoming client connections and forward them to the Netcat listeners.
 - Maintain interactive communication between the clients and listeners.
