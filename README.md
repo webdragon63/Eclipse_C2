@@ -3,7 +3,7 @@
 
 
 This is a simple c2 framework that allows to use teamserver for managing multiple clients and forwarding their connections to netcat listeners, and the other hand it allows to use netcat multi-handler for managing a single client. 
-
+### This is on early stage. I will develop this tool in future.
 ## Features
 - User-defined IP and port for the C2 server.
 - Automatic forwarding of client connections to Netcat listeners.
