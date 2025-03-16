@@ -1,4 +1,6 @@
 # Eclipse_C2 Framework
+![1000003491](https://github.com/user-attachments/assets/acda833e-d678-422a-87d0-6a290eefd5c1)
+
 
 This is a simple c2 framework that allows to use teamserver for managing multiple clients and forwarding their connections to netcat listeners, and the other hand it allows to use netcat multi-handler for managing a single client. 
 
