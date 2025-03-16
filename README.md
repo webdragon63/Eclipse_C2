@@ -35,7 +35,7 @@ The program will prompt you for:
 4. **Netcat Multi-Handler Port**: The port number to listen for incoming client connections.
 
 ### After starting a teamserver, it will:
-- Wait 1 second and launch Netcat listeners on ports 2001, 2002, 2003, 2004 and 2005 using `xterm`.
+- Wait 1 second and launch Netcat listeners on ports 2000, 2001, 2002, 2003 and 2004 using `xterm`.
 - Accept incoming client connections and forward them to the Netcat listeners.
 - Maintain interactive communication between the clients and listeners.
 
@@ -44,7 +44,7 @@ The program will prompt you for:
 - After choosing a payload it willl start the netcat listener in a single port.
 
 ## Notes
-- Ensure ports 2001, 2002, 2003, 2004 and 2005 are not in use before running the server.
+- Ensure ports 2000, 2001, 2002, 2003 and 2004 are not in use before running the server.
 - For Windows clients, use a compatible reverse shell payload.
 
 ## Created by
