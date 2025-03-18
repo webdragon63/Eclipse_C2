@@ -22,6 +22,7 @@ An advance cli based C2 framework that allows you to create multiple reverse she
 sudo apt update && sudo apt install gnome-terminal -y
 git clone https://github.com/webdragon63/Eclipse_C2.git
 cd Eclipse_C2
+chmod +x *
 ```
 
 ## Usage
