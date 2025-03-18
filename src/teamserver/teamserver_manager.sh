@@ -8,7 +8,7 @@ echo -n "Please select an option: "
 
 choice_of_teamserver(){
     case $1 in
-        1) ./src/teamserver/web_delivery/web_delivery.sh;;
+        1) bash src/teamserver/web_delivery/web_delivery.sh;;
         2) ./src/teamserver/teamserver;;
         3) echo "Exiting..."; exit 0;;
         *) echo "Invalid option";;
