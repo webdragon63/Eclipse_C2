@@ -154,7 +154,7 @@ echo -ne "${CYAN}${BOTTOM_RIGHT}${RESET}"
 
 # Giving executables permission 
 chmod +x  src/teamserver/teamserver
-chmod +x  src/teamserver/web_delivery/teamserver_2
+chmod +x  src/teamserver/teamserver_2
 chmod +x  src/teamserver/web_delivery/web_delivery
 
 # Show cursor again
