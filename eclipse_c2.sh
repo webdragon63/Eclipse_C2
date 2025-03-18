@@ -152,6 +152,11 @@ echo -ne "${CYAN}${BOTTOM_LEFT}"
 for ((i=0; i<header_width-27; i++)); do echo -ne "${CYAN}${HORIZONTAL}"; done
 echo -ne "${CYAN}${BOTTOM_RIGHT}${RESET}"
 
+# Giving executables permission 
+chmod +x  src/teamserver/teamserver
+chmod +x  src/teamserver/web_delivery/teamserver_2
+chmod +x  src/teamserver/web_delivery/web_delivery
+
 # Show cursor again
 tput cnorm
 echo -e "\n"
