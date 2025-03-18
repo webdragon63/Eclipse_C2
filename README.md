@@ -10,7 +10,7 @@ An advance cli based C2 framework that allows you to create multiple reverse she
 - Support for interactive reverse shell execution.
 - Uses normal "gnome-terminal" to launch Netcat listeners.
 - Maximum 15 clients support.
--
+  
 - ## Requirements
 - Linux system
 - Netcat (`nc`)
