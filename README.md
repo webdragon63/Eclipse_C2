@@ -46,7 +46,7 @@ The program will prompt you for:
 - Gives you a CMD command to execute on a target's commmand prompt.
 - Accept incoming client connections and forward them to the Netcat listeners.
 - Maintain interactive communication between the clients and listeners.
-### Note: After using this web_delivery_service method you need to run the `pkiller.sh` file manually with `bash pkiller.sh` command to stop any background process of the web_delivery service at the end. 
+### Note: After using this web_delivery_service method you need to run the `pkiller.sh` file manually with `sudo bash pkiller.sh` command to stop any background process of the web_delivery service at the end. 
 
 ### After starting a teamserver, it will:
 ![9](https://github.com/user-attachments/assets/ae037b2e-2fbf-4394-b509-106130ec4437)
