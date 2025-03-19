@@ -11,7 +11,6 @@ else
     echo "No web_delivery processes found."
 fi
 
-
 # Define futuristic border elements
 clear
 TOP_LEFT="╭─╼"
