@@ -37,9 +37,9 @@ The program will prompt you for:
 
 
 ### After starting a Scripted_Web_Delivery service, it will:
-![Screenshot at 2025-03-20 22-27-35](https://github.com/user-attachments/assets/11757351-6353-4ba7-ae76-f2ecc5d722c7)
+![4](https://github.com/user-attachments/assets/e8c24f30-3587-4b1c-b859-3ed41efb7339)
 
-![Screenshot at 2025-03-20 22-33-58](https://github.com/user-attachments/assets/07d09c18-1d7b-4e72-98e6-b5b9a3445fa9)
+![5](https://github.com/user-attachments/assets/8f8b4c55-6534-4ce4-b94e-816ee0ccf06b)
 
 
 - Wait 1 second and launch Netcat listeners on ports 2000 to 2014 using `gnome-terminal`.
