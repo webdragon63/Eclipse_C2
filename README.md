@@ -72,7 +72,7 @@ The program will prompt you for:
 - After choosing a payload it willl start the netcat listener in a single port.
 
 ## Notes
-- Ensure ports 2000, 2001, 2002, 2003 and 2004 are not in use before running the server.
+- Ensure ports 2000 to 2014 are not in use before running the server.
 - For Windows clients, use a compatible reverse shell payload.
 
 ## Created by
