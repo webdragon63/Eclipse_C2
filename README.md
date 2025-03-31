@@ -4,7 +4,7 @@
 An advance cli based C2 framework that allows you to create multiple reverse shell which are capable to handle 15 clients using a normal teamserver with custom reverse shell scripts and a scripted web_deivery_method. It is also have an inbuilt single netcat-multihandler to handle a single client (if needed).
 
 > :warning: This is on early stage. I will develop this tool in future.
-> ***TESTED ON MATE TERMINAL***
+> :important: ***TESTED ON MATE TERMINAL***
 ## Features
 - User-defined IP and port for the C2 server.
 - Automatic forwarding of client connections to Netcat listeners.
