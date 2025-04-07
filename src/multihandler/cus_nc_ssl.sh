@@ -61,4 +61,3 @@ declare -A clients  # Track connected clients
 done) &  
 
 openssl s_server -quiet -cert "$CERT" -key "$KEY" -port "$PORT"
-
