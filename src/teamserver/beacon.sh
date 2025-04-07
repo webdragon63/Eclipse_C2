@@ -62,3 +62,4 @@ EOF
 read -p "Enter the path and name for beacon: " beacon
 x86_64-w64-mingw32-gcc src/teamserver/beacon_source/beacon.c -o $beacon -lws2_32 -mwindows
 bash -c "./src/teamserver/exec/teamserver_2 $Host $Port"
+
