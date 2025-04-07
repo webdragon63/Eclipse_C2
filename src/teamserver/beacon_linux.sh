@@ -56,3 +56,4 @@ EOF
 read -p "Enter the path and name for beacon: " beacon
 gcc src/teamserver/beacon_source/beacon_linux.c -o $beacon 
 bash -c "./src/teamserver/exec/teamserver_2 $Host $Port"
+
