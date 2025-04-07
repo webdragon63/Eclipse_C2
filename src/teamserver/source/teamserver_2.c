@@ -152,4 +152,3 @@ void setup_terminal_listeners() {
     system(command);
     sleep(1);
 }
-
