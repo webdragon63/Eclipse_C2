@@ -41,6 +41,7 @@ The program will prompt you for:
 ![Screenshot at 2025-04-06 15-37-54](https://github.com/user-attachments/assets/85e24503-cd6b-4520-833a-fa31439438dd)
 ![Screenshot at 2025-04-06 15-38-48](https://github.com/user-attachments/assets/defdbcb4-3a9d-4c30-962a-d3c830fe7218)
 
+- Hosts a powershell payload to deliver it over the target via a web server 
 - Wait 1 second and launch Netcat listeners on ports 2000 to 2014 using `gnome-terminal`.
 - Gives you a CMD command to execute on a target's commmand prompt.
 - Accept incoming client connections and forward them to the Netcat listeners.
