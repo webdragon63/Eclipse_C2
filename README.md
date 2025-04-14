@@ -7,11 +7,13 @@ An advance cli based C2 framework that allows you to create multiple reverse she
 > :ballot_box_with_check: :ok: ***TESTED ON MATE TERMINAL***
 ## Features
 - User-defined IP and port for the C2 server.
+- Supports Scripted-Web-Dlivery method.
+- Supports C-based reverse shell beacon for Linux and windows both.
 - Automatic forwarding of client connections to Netcat listeners.
 - Support for interactive reverse shell execution.
 - Uses normal "gnome-terminal" to launch Netcat listeners.
 - Maximum 15 clients support.
--
+
 - ## Requirements
 - Linux system
 - Netcat (`nc`)
