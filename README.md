@@ -8,7 +8,6 @@ An advance cli based C2 framework that allows you to create multiple reverse she
 ## Features
 - User-defined IP and port for the C2 server.
 - Supports Scripted-Web-Dlivery method.
-- Linux and Windows beacon facilities.
 - Supports C-based reverse shell beacon for Linux and Windows both.
 - Automatic forwarding of client connections to Netcat listeners.
 - Support for interactive reverse shell execution.
