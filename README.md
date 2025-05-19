@@ -1,13 +1,14 @@
 # Eclipse_C2 Framework
 ![1000003491](https://github.com/user-attachments/assets/acda833e-d678-422a-87d0-6a290eefd5c1)
 
-An advance cli based C2 framework that allows you to create multiple reverse shell which are capable to handle 15 clients using a normal teamserver with custom reverse shell scripts and a scripted web_deivery_method. It is also have an inbuilt single netcat-multihandler to handle a single client (if needed).
+An advance cli based C2 framework that allows you to create multiple reverse shell which are capable to handle 15 clients using a normal teamserver with custom reverse shell scripts, scripted web_deivery_method, and also beaconing method. It is also have an inbuilt single netcat-multihandler to handle a single client (if needed).
 
 > :warning: This is on early stage. I will develop this tool in future.
 > :ballot_box_with_check: :ok: ***TESTED ON MATE TERMINAL***
 ## Features
 - User-defined IP and port for the C2 server.
 - Supports Scripted-Web-Dlivery method.
+- Linux and Windows beacon facilities.
 - Supports C-based reverse shell beacon for Linux and Windows both.
 - Automatic forwarding of client connections to Netcat listeners.
 - Support for interactive reverse shell execution.
